@@ -18,5 +18,5 @@ bundle
 ```yml
 inherit_gem:
   jcop:
-    - default.yml
+    - .rubocop.yml
 ```
