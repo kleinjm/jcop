@@ -39,3 +39,10 @@ Style/WordArray:
 Naming/PredicateName:
   NameWhitelist:
     - has_connection
+
+Style/TrailingCommaInArguments:
+  # If `comma`, the cop requires a comma after the last argument, but only for
+  # parenthesized method calls where each argument is on its own line.
+  # If `consistent_comma`, the cop requires a comma after the last argument,
+  # for all parenthesized method calls with arguments.
+  EnforcedStyleForMultiline: consistent_comma
