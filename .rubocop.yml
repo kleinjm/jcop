@@ -39,7 +39,3 @@ Style/WordArray:
 Naming/PredicateName:
   NameWhitelist:
     - has_connection
-
-Metrics/BlockLength:
-  Exclude:
-    - ./**/*_spec*.rb
