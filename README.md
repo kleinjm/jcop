@@ -5,7 +5,8 @@ My personal rubocop style.
 ## Installation
 
 ```rb
-gem "jcop"
+# Gemfile
+gem "jcop", "~> 0.2.1", source: "https://gem.fury.io/kleinjm/"
 ```
 
 ```sh
