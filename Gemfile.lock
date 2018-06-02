@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jcop (0.2.2)
+    jcop (0.2.3)
       rubocop (~> 0.56.0)
 
 GEM
